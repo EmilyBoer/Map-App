@@ -1,0 +1,16 @@
+{
+  "name": "mean-app",
+  "version": "1.0.0",
+  "description": "\"A RESTful app using the mean stack and AngularJs\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emily Boerner",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "Map-App"
+  }
+}
+
