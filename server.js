@@ -23,6 +23,6 @@ extended:true
 // create our routers that will route the requests to the corresponding ressources
 var router = express.Router();
 
-
+//app use api
 app.use('/api',router);
 
